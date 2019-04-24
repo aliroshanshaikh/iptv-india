@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="IND - 8XM" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/362387494f6be6613daea643a7706a428xm.jpg" group-title="INDIAN",IND - 8XM
+http://voxtv.dynns.com:8000/indian/indian/165
+#EXTINF:-1 tvg-ID="" tvg-name="IND - 9X  JALWA" tvg-logo="" group-title="INDIAN",IND - 9X  JALWA
+http://voxtv.dynns.com:8000/indian/indian/159
+#EXTINF:-1 tvg-ID="" tvg-name="IND - 9X JHAKASS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/e661551c8ec9308379cda7e2419348e59xjhakaas.jpg" group-title="INDIAN",IND - 9X JHAKASS
+http://voxtv.dynns.com:8000/indian/indian/158
+#EXTINF:-1 tvg-ID="" tvg-name="IND - 9X MUSIC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/cfe8504bda37b575c70ee1a8276f34869xm.jpg" group-title="INDIAN",IND - 9X MUSIC
+http://voxtv.dynns.com:8000/indian/indian/157
+#EXTINF:-1 tvg-ID="" tvg-name="IND - AAJ TAK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f387624df552cea2f369918c5e1e12bcajjtak.jpg" group-title="INDIAN",IND - AAJ TAK
+http://voxtv.dynns.com:8000/indian/indian/134
+#EXTINF:-1 tvg-ID="" tvg-name="IND - AASTHA BHAJAN" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/de9240f5c623bf031dcf0fca9770db44askashbanglaa.jpg" group-title="INDIAN",IND - AASTHA BHAJAN
+http://voxtv.dynns.com:8000/indian/indian/167
+#EXTINF:-1 tvg-ID="" tvg-name="IND - AASTHA TV" tvg-logo="" group-title="INDIAN",IND - AASTHA TV
+http://voxtv.dynns.com:8000/indian/indian/1123
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ABP NEWS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5c3a3b139a11689e0bc55abd95e20e39abp.jpg" group-title="INDIAN",IND - ABP NEWS
+http://voxtv.dynns.com:8000/indian/indian/186
+#EXTINF:-1 tvg-ID="" tvg-name="AND PICTURE HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1499681537.jpg" group-title="HD",AND PICTURE HD
+http://voxtv.dynns.com:8000/indian/indian/823
+#EXTINF:-1 tvg-ID="" tvg-name="IND - AND TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/13403518ef9c1ce843a289d991f79bf5andtv.jpg" group-title="INDIAN",IND - AND TV
+http://voxtv.dynns.com:8000/indian/indian/494
+#EXTINF:-1 tvg-ID="" tvg-name="AND TV HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1506947236.jpg" group-title="HD",AND TV HD
+http://voxtv.dynns.com:8000/indian/indian/141
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ANIMAL PLANET" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/de3c1a733c9c51de130bc7ae775fd930animalplenet.jpg" group-title="INDIAN",IND - ANIMAL PLANET
+http://voxtv.dynns.com:8000/indian/indian/143
+#EXTINF:-1 tvg-ID="" tvg-name="IND - B4U MOVIES" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/fd3ae753500ad06fd8fa224f28bcac59b4umovies.jpg" group-title="INDIAN",IND - B4U MOVIES
+http://voxtv.dynns.com:8000/indian/indian/140
+#EXTINF:-1 tvg-ID="" tvg-name="IND - B4U MUSIC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/53fde96fcc4b4ce72d7739202324cd49b4u.jpg" group-title="INDIAN",IND - B4U MUSIC
+http://voxtv.dynns.com:8000/indian/indian/156
+#EXTINF:-1 tvg-ID="" tvg-name="IND - BINDASS PLAY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/43cca4b3de2097b9558efefd0ecc3588bindasplay.jpg" group-title="INDIAN",IND - BINDASS PLAY
+http://voxtv.dynns.com:8000/indian/indian/155
+#EXTINF:-1 tvg-ID="" tvg-name="IND - CARTOON NETWORK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/3000311ca56a1cb93397bc676c0b7fffcnnn.jpg" group-title="INDIAN",IND - CARTOON NETWORK
+http://voxtv.dynns.com:8000/indian/indian/163
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL V" tvg-logo="" group-title="INDIAN",CHANNEL V
+http://voxtv.dynns.com:8000/indian/indian/756
+#EXTINF:-1 tvg-ID="" tvg-name="IND - CNBC AWAZ" tvg-logo="" group-title="INDIAN",IND - CNBC AWAZ
+http://voxtv.dynns.com:8000/indian/indian/1126
+#EXTINF:-1 tvg-ID="" tvg-name="IND - CNN IBN NEWS" tvg-logo="" group-title="INDIAN",IND - CNN IBN NEWS
+http://voxtv.dynns.com:8000/indian/indian/1129
+#EXTINF:-1 tvg-ID="" tvg-name="IND - COLORS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/6ba9580871babd8d9c620aa5fb366abfcolors.jpg" group-title="INDIAN",IND - COLORS
+http://voxtv.dynns.com:8000/indian/indian/121
+#EXTINF:-1 tvg-ID="" tvg-name="IND - COLORS APAC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f12ee9734e1edf70ed02d9829018b3d9colorAPAC.jpg" group-title="INDIAN",IND - COLORS APAC
+http://voxtv.dynns.com:8000/indian/indian/124
+#EXTINF:-1 tvg-ID="" tvg-name="IND - COLORS EUROPE" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/b4d6f2b565ca0eef1f9245403aac366acolorEurope.jpg" group-title="INDIAN",IND - COLORS EUROPE
+http://voxtv.dynns.com:8000/indian/indian/123
+#EXTINF:-1 tvg-ID="" tvg-name="HD COLORS TV HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/070c425fd005e11aec1a90706dda66f5colorshd.jpg" group-title="HD",HD COLORS TV HD
+http://voxtv.dynns.com:8000/indian/indian/122
+#EXTINF:-1 tvg-ID="" tvg-name="IND - COLORS TV ME" tvg-logo="" group-title="INDIAN",IND - COLORS TV ME
+http://voxtv.dynns.com:8000/indian/indian/1131
+#EXTINF:-1 tvg-ID="" tvg-name="IND - COLORS TV UK" tvg-logo="" group-title="INDIAN",IND - COLORS TV UK
+http://voxtv.dynns.com:8000/indian/indian/1132
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DD INDIA" tvg-logo="" group-title="INDIAN",IND - DD INDIA
+http://voxtv.dynns.com:8000/indian/indian/1133
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DD NEWS" tvg-logo="" group-title="INDIAN",IND - DD NEWS
+http://voxtv.dynns.com:8000/indian/indian/1134
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DESI BEATS" tvg-logo="" group-title="INDIAN",IND - DESI BEATS
+http://voxtv.dynns.com:8000/indian/indian/1135
+#EXTINF:-1 tvg-ID="" tvg-name="IND - DISNEY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/d148c06273c73ec0461b6f82575ef353disney.jpg" group-title="INDIAN",IND - DISNEY
+http://voxtv.dynns.com:8000/indian/indian/144
+#EXTINF:-1 tvg-ID="" tvg-name="IND - E24" tvg-logo="" group-title="INDIAN",IND - E24
+http://voxtv.dynns.com:8000/indian/indian/1136
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ENTER 10" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/7690dd4db7a92524c684e3191919eb6benter10.jpg" group-title="INDIAN",IND - ENTER 10
+http://voxtv.dynns.com:8000/indian/indian/142
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ET NOW" tvg-logo="" group-title="INDIAN",IND - ET NOW
+http://voxtv.dynns.com:8000/indian/indian/1137
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV BIHAR" tvg-logo="" group-title="INDIAN",IND - ETV BIHAR
+http://voxtv.dynns.com:8000/indian/indian/1138
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV MP" tvg-logo="" group-title="INDIAN",IND - ETV MP
+http://voxtv.dynns.com:8000/indian/indian/1139
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV NOW" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/42e9fb755426f19231217afb43e1aec1etvnow.jpg" group-title="INDIAN",IND - ETV NOW
+http://voxtv.dynns.com:8000/indian/indian/497
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV RAJASTHAN" tvg-logo="" group-title="INDIAN",IND - ETV RAJASTHAN
+http://voxtv.dynns.com:8000/indian/indian/1140
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV UP" tvg-logo="" group-title="INDIAN",IND - ETV UP
+http://voxtv.dynns.com:8000/indian/indian/1141
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ETV URDU" tvg-logo="" group-title="INDIAN",IND - ETV URDU
+http://voxtv.dynns.com:8000/indian/indian/1142
+#EXTINF:-1 tvg-ID="" tvg-name="IND - FOOD" tvg-logo="" group-title="INDIAN",IND - FOOD
+http://voxtv.dynns.com:8000/indian/indian/166
+#EXTINF:-1 tvg-ID="" tvg-name="IND - FOOD NETWORK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/fa2431bf9d65058fe34e9713e32d60e6food.jpg" group-title="INDIAN",IND - FOOD NETWORK
+http://voxtv.dynns.com:8000/indian/indian/491
+#EXTINF:-1 tvg-ID="" tvg-name="IND - IBN 7" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a569398d13eb87b14276380d2921ddbcibn7.jpg" group-title="INDIAN",IND - IBN 7
+http://voxtv.dynns.com:8000/indian/indian/499
+#EXTINF:-1 tvg-ID="" tvg-name="IND - IBN LOKMAT" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5505712229fb1eb500efadddc0353264ibnlok.jpg" group-title="INDIAN",IND - IBN LOKMAT
+http://voxtv.dynns.com:8000/indian/indian/498
+#EXTINF:-1 tvg-ID="" tvg-name="IND - INDIA TODAY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/2596a54cdbb555cfd09cd5d991da0f55india.jpg" group-title="INDIAN",IND - INDIA TODAY
+http://voxtv.dynns.com:8000/indian/indian/496
+#EXTINF:-1 tvg-ID="" tvg-name="IND - INDIA TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/6bc24fc1ab650b25b4114e93a98f1ebaindiatv.jpg" group-title="INDIAN",IND - INDIA TV
+http://voxtv.dynns.com:8000/indian/indian/184
+#EXTINF:-1 tvg-ID="" tvg-name="IND - LIFE OK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/6ba1085b788407963fe0e89c699a7396lifeok.jpg" group-title="INDIAN",IND - LIFE OK
+http://voxtv.dynns.com:8000/indian/indian/135
+#EXTINF:-1 tvg-ID="" tvg-name="LIFE OK IND" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f3ada80d5c4ee70142b17b8192b2958elifeok.jpg" group-title="INDIAN",LIFE OK IND
+http://voxtv.dynns.com:8000/indian/indian/136
+#EXTINF:-1 tvg-ID="" tvg-name="IND - LIFE OK MENA" tvg-logo="" group-title="INDIAN",IND - LIFE OK MENA
+http://voxtv.dynns.com:8000/indian/indian/1146
+#EXTINF:-1 tvg-ID="" tvg-name="IND - LIFE OK STAR" tvg-logo="" group-title="INDIAN",IND - LIFE OK STAR
+http://voxtv.dynns.com:8000/indian/indian/1147
+#EXTINF:-1 tvg-ID="" tvg-name="IND - LIFE OK USA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1508737881.jpg" group-title="INDIAN",IND - LIFE OK USA
+http://voxtv.dynns.com:8000/indian/indian/1148
+#EXTINF:-1 tvg-ID="" tvg-name="IND - LIVING FOOD" tvg-logo="" group-title="INDIAN",IND - LIVING FOOD
+http://voxtv.dynns.com:8000/indian/indian/99
+#EXTINF:-1 tvg-ID="" tvg-name="MTUNES HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/8dcf2420e78a64333a59674678fb283bMtune.png" group-title="HD",MTUNES HD
+http://voxtv.dynns.com:8000/indian/indian/154
+#EXTINF:-1 tvg-ID="" tvg-name="IND - MTV INDIA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/7eab47bf3a57db8e440e5a788467c37fMTV.gif" group-title="INDIAN",IND - MTV INDIA
+http://voxtv.dynns.com:8000/indian/indian/153
+#EXTINF:-1 tvg-ID="" tvg-name="IND - MUSIC INDIA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/988f9153ac4fd966ea302dd9ab9bae15indiamusic.jpg" group-title="INDIAN",IND - MUSIC INDIA
+http://voxtv.dynns.com:8000/indian/indian/152
+#EXTINF:-1 tvg-ID="" tvg-name="IND - MUSIC XPRESS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/caf1a3dfb505ffed0d024130f58c5cfamusic.jpg" group-title="INDIAN",IND - MUSIC XPRESS
+http://voxtv.dynns.com:8000/indian/indian/151
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ND TV PROFIT" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483430698.jpg" group-title="INDIAN",IND - ND TV PROFIT
+http://voxtv.dynns.com:8000/indian/indian/185
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NDTV 24x7" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483430675.jpg" group-title="INDIAN",IND - NDTV 24x7
+http://voxtv.dynns.com:8000/indian/indian/1149
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NDTV PROFIT" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483430698.jpg" group-title="INDIAN",IND - NDTV PROFIT
+http://voxtv.dynns.com:8000/indian/indian/1150
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NEWS 24" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483003791.jpg" group-title="INDIAN",IND - NEWS 24
+http://voxtv.dynns.com:8000/indian/indian/1151
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NEWS X" tvg-logo="" group-title="INDIAN",IND - NEWS X
+http://voxtv.dynns.com:8000/indian/indian/1152
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NEWS 9 ENG" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483428500.jpg" group-title="INDIAN",IND - NEWS 9 ENG
+http://voxtv.dynns.com:8000/indian/indian/1153
+#EXTINF:-1 tvg-ID="" tvg-name="IND - PEACE TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/1368ba1ab6ed38bb1f26f36673739d54peacetv2.gif" group-title="INDIAN",IND - PEACE TV
+http://voxtv.dynns.com:8000/indian/indian/145
+#EXTINF:-1 tvg-ID="" tvg-name="IND - POGO" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/254ed7d2de3b23ab10936522dd547b78pogo.jpg" group-title="INDIAN",IND - POGO
+http://voxtv.dynns.com:8000/indian/indian/146
+#EXTINF:-1 tvg-ID="" tvg-name="IND - RISHTEY TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483428305.jpg" group-title="INDIAN",IND - RISHTEY TV
+http://voxtv.dynns.com:8000/indian/indian/1172
+#EXTINF:-1 tvg-ID="" tvg-name="IND - RISHTEY EU" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483428219.jpg" group-title="INDIAN",IND - RISHTEY EU
+http://voxtv.dynns.com:8000/indian/indian/1155
+#EXTINF:-1 tvg-ID="" tvg-name="IND - RISHTEY  UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/b1790a55a67906c18bd9a046e17c5935rishtyUK.jpg" group-title="INDIAN",IND - RISHTEY  UK
+http://voxtv.dynns.com:8000/indian/indian/139
+#EXTINF:-1 tvg-ID="" tvg-name="IND - RISHTEY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/42e7aaa88b48137a16a1acd04ed91125rishty.jpg" group-title="INDIAN",IND - RISHTEY
+http://voxtv.dynns.com:8000/indian/indian/138
+#EXTINF:-1 tvg-ID="" tvg-name="IND - RISHTEY ASIA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/42e7aaa88b48137a16a1acd04ed91125rishty.jpg" group-title="INDIAN",IND - RISHTEY ASIA
+http://voxtv.dynns.com:8000/indian/indian/1154
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAB TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/789ba2ae4d335e8a2ad283a3f7effcedsonysab.jpg" group-title="INDIAN",IND - SAB TV
+http://voxtv.dynns.com:8000/indian/indian/130
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAB TV IND" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/75df63609809c7a2052fdffe5c00a84esonysab.jpg" group-title="INDIAN",IND - SAB TV IND
+http://voxtv.dynns.com:8000/indian/indian/129
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAB TV UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/789ba2ae4d335e8a2ad283a3f7effcedsonysab.jpg" group-title="INDIAN",IND - SAB TV UK
+http://voxtv.dynns.com:8000/indian/indian/481
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAHARA SAMAY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483428089.jpg" group-title="INDIAN",IND - SAHARA SAMAY
+http://voxtv.dynns.com:8000/indian/indian/1156
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAHARA SAMAY AALAMI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483428003.jpg" group-title="INDIAN",IND - SAHARA SAMAY AALAMI
+http://voxtv.dynns.com:8000/indian/indian/1157
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAHARA SAMAY BIHAR" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483427581.jpg" group-title="INDIAN",IND - SAHARA SAMAY BIHAR
+http://voxtv.dynns.com:8000/indian/indian/1158
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SAHIB TV" tvg-logo="" group-title="INDIAN",IND - SAHIB TV
+http://voxtv.dynns.com:8000/indian/indian/1100
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SET MAX" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/99cad265a1768cc2dd013f0e740300aesonymax.png" group-title="INDIAN",IND - SET MAX
+http://voxtv.dynns.com:8000/indian/indian/125
+#EXTINF:-1 tvg-ID="" tvg-name="JIO/SONYMAXHD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/ea20aed6df7caa746052d227d194a395setmaxHD.jpg" group-title="HD",JIO/SONYMAXHD
+http://voxtv.dynns.com:8000/indian/indian/536
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SET MAX UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/2974788b53f73e7950e8aa49f3a306dbsonyuk.jpg" group-title="INDIAN",IND - SET MAX UK
+http://voxtv.dynns.com:8000/indian/indian/484
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SETMAX AUS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483427024.jpg" group-title="INDIAN",IND - SETMAX AUS
+http://voxtv.dynns.com:8000/indian/indian/1162
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SONY MAX 2" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483426661.jpg" group-title="INDIAN",IND - SONY MAX 2
+http://voxtv.dynns.com:8000/indian/indian/1163
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SONY TV AUD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/d69768b3da745b77e82cdbddcc8bac98sonyAUD.jpg" group-title="INDIAN",IND - SONY TV AUD
+http://voxtv.dynns.com:8000/indian/indian/128
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TV HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/4a3fd911279cd8bc597fa13222ef83besonyHd.jpg" group-title="HD",SONY TV HD
+http://voxtv.dynns.com:8000/indian/indian/127
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SONY TV UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/ddd993b2fef3fdff101872bb03cfded8sonyUk.gif" group-title="INDIAN",IND - SONY TV UK
+http://voxtv.dynns.com:8000/indian/indian/126
+#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/0ebefbe6a3b4e5e0d786c26affc419adStarGoldHD2011.jpg" group-title="HD",STAR GOLD HD
+http://voxtv.dynns.com:8000/indian/indian/191
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR GOLD IND" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/154f596a0e4aec4cf23ee4b76ae3d34aStarGold.jpg" group-title="INDIAN",IND - STAR GOLD IND
+http://voxtv.dynns.com:8000/indian/indian/133
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR MOVIES" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/043ab21fc5a1607b381ac3896176dac6star.jpg" group-title="INDIAN",IND - STAR MOVIES
+http://voxtv.dynns.com:8000/indian/indian/137
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR PLUS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f29b38f160f87ae86df31cee1982066fstarplus.jpg" group-title="INDIAN",IND - STAR PLUS
+http://voxtv.dynns.com:8000/indian/indian/132
+#EXTINF:-1 tvg-ID="" tvg-name="STAR PLUS HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a5771bce93e200c36f7cd9dfd0e5deaastarplusHD.jpg" group-title="HD",STAR PLUS HD
+http://voxtv.dynns.com:8000/indian/indian/131
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR PLUS IND" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/b22ed7eafe03b63112ef3ff52f0b99dbstarplus.jpg" group-title="INDIAN",IND - STAR PLUS IND
+http://voxtv.dynns.com:8000/indian/indian/188
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR PLUS ME" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483426538.jpg" group-title="INDIAN",IND - STAR PLUS ME
+http://voxtv.dynns.com:8000/indian/indian/1164
+#EXTINF:-1 tvg-ID="" tvg-name="IND -  STAR PLUS  UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f5e647292cc4e1064968ca62bebe7e47staruk.jpg" group-title="INDIAN",IND -  STAR PLUS  UK
+http://voxtv.dynns.com:8000/indian/indian/479
+#EXTINF:-1 tvg-ID="" tvg-name="IND - STAR PLUS USA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/41a60377ba920919939d83326ebee5a1starplus.jpg" group-title="INDIAN",IND - STAR PLUS USA
+http://voxtv.dynns.com:8000/indian/indian/480
+#EXTINF:-1 tvg-ID="" tvg-name="IND - SUDARSHAN NEWS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483426282.jpg" group-title="INDIAN",IND - SUDARSHAN NEWS
+http://voxtv.dynns.com:8000/indian/indian/1165
+#EXTINF:-1 tvg-ID="" tvg-name="IND - TIMES NOW" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5751ec3e9a4feab575962e78e006250dtimesnow.gif" group-title="INDIAN",IND - TIMES NOW
+http://voxtv.dynns.com:8000/indian/indian/187
+#EXTINF:-1 tvg-ID="" tvg-name="IND - UMP MOVIES" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a430a7300689d591618cb08a7f156c36ump.jpg" group-title="INDIAN",IND - UMP MOVIES
+http://voxtv.dynns.com:8000/indian/indian/485
+#EXTINF:-1 tvg-ID="" tvg-name="IND - UTV ACTION" tvg-logo="" group-title="INDIAN",IND - UTV ACTION
+http://voxtv.dynns.com:8000/indian/indian/700
+#EXTINF:-1 tvg-ID="" tvg-name="IND - UTV BINDASS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/84d2004bf28a2095230e8e14993d398dutvbindas.jpg" group-title="INDIAN",IND - UTV BINDASS
+http://voxtv.dynns.com:8000/indian/indian/161
+#EXTINF:-1 tvg-ID="" tvg-name="IND - UTV MOVIES INTERNATIONAL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/fc6709bfdf0572f183c1a84ce5276e96utvmoviesint.jpg" group-title="INDIAN",IND - UTV MOVIES INTERNATIONAL
+http://voxtv.dynns.com:8000/indian/indian/160
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE ACTION" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a2d10d355cdebc879e4fc6ecc6f63dd7zeeaction.png" group-title="INDIAN",IND - ZEE ACTION
+http://voxtv.dynns.com:8000/indian/indian/112
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE ANMOL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/989652eef28bc49eec908063ba36a854zeeanmol.jpg" group-title="INDIAN",IND - ZEE ANMOL
+http://voxtv.dynns.com:8000/indian/indian/102
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE BOLLYWOOD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f9ff6540c092abd6a77908c034710a04zeebollywood.jpg" group-title="INDIAN",IND - ZEE BOLLYWOOD
+http://voxtv.dynns.com:8000/indian/indian/100
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE BUSINESS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/76460865551007d38ffbb834d5896ea4zeebusines.jpg" group-title="INDIAN",IND - ZEE BUSINESS
+http://voxtv.dynns.com:8000/indian/indian/116
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE CINEMA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5cdf0f9533d6b4c0984fc5ae00913459zeecenima.jpg" group-title="INDIAN",IND - ZEE CINEMA
+http://voxtv.dynns.com:8000/indian/indian/117
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE CINEMA APAC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/941e1aaaba585b952b62c14a3a175a61zeeapac.jpg" group-title="INDIAN",IND - ZEE CINEMA APAC
+http://voxtv.dynns.com:8000/indian/indian/488
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/0cc6928e741d75e7a92396317522069ezeecenima.jpg" group-title="HD",ZEE CINEMA HD
+http://voxtv.dynns.com:8000/indian/indian/503
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE CINEMA ME" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483425917.jpg" group-title="INDIAN",IND - ZEE CINEMA ME
+http://voxtv.dynns.com:8000/indian/indian/1167
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE  CINEMA UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/1f187c8bc462403c4646ab271007edf4zeeuk.jpg" group-title="INDIAN",IND - ZEE  CINEMA UK
+http://voxtv.dynns.com:8000/indian/indian/487
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE CLASSIC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/55b34fd73727d9b19698835c7d5302aezeekalinga.jpg" group-title="INDIAN",IND - ZEE CLASSIC
+http://voxtv.dynns.com:8000/indian/indian/111
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE ETC BOLLYWOOD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483425639.jpg" group-title="INDIAN",IND - ZEE ETC BOLLYWOOD
+http://voxtv.dynns.com:8000/indian/indian/1168
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE KALINGA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/55b34fd73727d9b19698835c7d5302aezeekalinga.jpg" group-title="INDIAN",IND - ZEE KALINGA
+http://voxtv.dynns.com:8000/indian/indian/107
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE  KANNADA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/be341249df108cb23c312ae62b6565cdkanada.jpg" group-title="INDIAN",IND - ZEE  KANNADA
+http://voxtv.dynns.com:8000/indian/indian/105
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE LIVING HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/41f860e3b7f548abc1f8b812059137bfzeelivingHD.jpg" group-title="HD",ZEE LIVING HD
+http://voxtv.dynns.com:8000/indian/indian/120
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE MADYAPRADESH" tvg-logo="" group-title="INDIAN",IND - ZEE MADYAPRADESH
+http://voxtv.dynns.com:8000/indian/indian/500
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE MARUDAHAR" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/1b742ae215adf18b75449c6e272fd92dzeemudhara.jpg" group-title="INDIAN",IND - ZEE MARUDAHAR
+http://voxtv.dynns.com:8000/indian/indian/109
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE NEWS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f565bb9efccaf6986443db0bf01018bczeenews.jpg" group-title="INDIAN",IND - ZEE NEWS
+http://voxtv.dynns.com:8000/indian/indian/119
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE PURVAIYA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/c9e37c28ce5852218032aae6f5632b13zeepurviaya.jpg" group-title="INDIAN",IND - ZEE PURVAIYA
+http://voxtv.dynns.com:8000/indian/indian/108
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE RISHTAY" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/c14a2a57ead18f3532a5a8949382c536zeelamhe.jpg" group-title="INDIAN",IND - ZEE RISHTAY
+http://voxtv.dynns.com:8000/indian/indian/501
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE SALAM" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/d8700cbd38cc9f30cecb34f0c195b137zeesalam.jpg" group-title="INDIAN",IND - ZEE SALAM
+http://voxtv.dynns.com:8000/indian/indian/110
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE SANGAM" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/ddd1df443471e3abe89933f20d08116azeesangam.jpg" group-title="INDIAN",IND - ZEE SANGAM
+http://voxtv.dynns.com:8000/indian/indian/106
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE SMILE" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/03b264c595403666634ac75d828439bcZeesmile.png" group-title="INDIAN",IND - ZEE SMILE
+http://voxtv.dynns.com:8000/indian/indian/113
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE TALKIES" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/0a0a0c8aaa00ade50f74a3f0ca981ed7zeetalkies.jpg" group-title="INDIAN",IND - ZEE TALKIES
+http://voxtv.dynns.com:8000/indian/indian/101
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE TAMIL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/b9009beb804fa097c04d226a8ba5102ezeetamil.jpg" group-title="INDIAN",IND - ZEE TAMIL
+http://voxtv.dynns.com:8000/indian/indian/104
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE TELUGU" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/b0bf8b3daf61246d13276dc8dcdfb87dzeetelgu.gif" group-title="INDIAN",IND - ZEE TELUGU
+http://voxtv.dynns.com:8000/indian/indian/103
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE TV HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/9f0609b9d45dd55bed75f892cf095fcfzeetvHD.jpg" group-title="HD",ZEE TV HD
+http://voxtv.dynns.com:8000/indian/indian/115
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE TV ME" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483425284.jpg" group-title="INDIAN",IND - ZEE TV ME
+http://voxtv.dynns.com:8000/indian/indian/1169
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZEE  TV UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/56c3b2c6ea3a83aaeeff35eeb45d700dzeeuk.jpg" group-title="INDIAN",IND - ZEE  TV UK
+http://voxtv.dynns.com:8000/indian/indian/114
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZING" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/febefe1cc5c87748ea02036dbe9e3d67zing1.jpg" group-title="INDIAN",IND - ZING
+http://voxtv.dynns.com:8000/indian/indian/150
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZING  UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/4888241374e8c62ddd9b4c3cfd091f96zinguk.jpg" group-title="INDIAN",IND - ZING  UK
+http://voxtv.dynns.com:8000/indian/indian/493
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZOOM" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/c55430fdfdac11fc3771a9b94e2bb8547ec69dd44416c46745f6edd947b470cdzoom.jpg" group-title="INDIAN",IND - ZOOM
+http://voxtv.dynns.com:8000/indian/indian/149
+#EXTINF:-1 tvg-ID="" tvg-name="IND - ZOOM UK" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/5c48ff18e0a47baaf81d8b8ea51eec92zoomuk.jpg" group-title="INDIAN",IND - ZOOM UK
+http://voxtv.dynns.com:8000/indian/indian/492
+#EXTINF:-1 tvg-ID="" tvg-name="IND - MUSIC INDIA STREAM 2" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/988f9153ac4fd966ea302dd9ab9bae15indiamusic.jpg" group-title="INDIAN",IND - MUSIC INDIA STREAM 2
+http://voxtv.dynns.com:8000/indian/indian/489
+#EXTINF:-1 tvg-ID="" tvg-name="IND - 9x Jalwa  Stream 2" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a440a3d316c5614c7a9310e902f4a43e9xjalwa.jpg" group-title="INDIAN",IND - 9x Jalwa  Stream 2
+http://voxtv.dynns.com:8000/indian/indian/495
+#EXTINF:-1 tvg-ID="" tvg-name="9XM" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/cfe8504bda37b575c70ee1a8276f34869xm.jpg" group-title="INDIAN",9XM
+http://voxtv.dynns.com:8000/indian/indian/5307
+#EXTINF:-1 tvg-ID="" tvg-name="IND - NDTV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/42dab56861d81108ee356d037190c315NDTV.jpg" group-title="INDIAN",IND - NDTV
+http://voxtv.dynns.com:8000/indian/indian/147
+#EXTINF:-1 tvg-ID="" tvg-name="PB - AKAAL CHANNEL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/2172fde49301047270b2897085e4319dakal.jpg" group-title="PUNJABI",PB - AKAAL CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/1111
+#EXTINF:-1 tvg-ID="" tvg-name="PB - AKKAL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/2172fde49301047270b2897085e4319dakal.jpg" group-title="PUNJABI",PB - AKKAL
+http://voxtv.dynns.com:8000/indian/indian/183
+#EXTINF:-1 tvg-ID="" tvg-name="PB - AONE MUSIC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344548.jpg" group-title="PUNJABI",PB - AONE MUSIC
+http://voxtv.dynns.com:8000/indian/indian/1112
+#EXTINF:-1 tvg-ID="" tvg-name="PB - BRIT ASIA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1487420323.jpg" group-title="PUNJABI",PB - BRIT ASIA
+http://voxtv.dynns.com:8000/indian/indian/169
+#EXTINF:-1 tvg-ID="" tvg-name="PB - CHAKDE TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344391.jpg" group-title="PUNJABI",PB - CHAKDE TV
+http://voxtv.dynns.com:8000/indian/indian/1113
+#EXTINF:-1 tvg-ID="" tvg-name="PB - CHARDIKLA TIME TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1482907698.jpg" group-title="PUNJABI",PB - CHARDIKLA TIME TV
+http://voxtv.dynns.com:8000/indian/indian/178
+#EXTINF:-1 tvg-ID="" tvg-name="PB - DD PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/e49eb6523da9e1c347bc148ea8ac55d3ddpun.jpg" group-title="PUNJABI",PB - DD PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/168
+#EXTINF:-1 tvg-ID="" tvg-name="PB - DESI CHANNEL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344318.jpg" group-title="PUNJABI",PB - DESI CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/1114
+#EXTINF:-1 tvg-ID="" tvg-name="PB - ETC PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/a9de093d0622ed782d267fa3f1953228etcpunjabi.jpg" group-title="PUNJABI",PB - ETC PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/171
+#EXTINF:-1 tvg-ID="" tvg-name="PB - HAMDARD TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344251.jpg" group-title="PUNJABI",PB - HAMDARD TV
+http://voxtv.dynns.com:8000/indian/indian/1115
+#EXTINF:-1 tvg-ID="" tvg-name="PB - JHANJAR HD" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344174.jpg" group-title="PUNJABI",PB - JHANJAR HD
+http://voxtv.dynns.com:8000/indian/indian/1116
+#EXTINF:-1 tvg-ID="" tvg-name="PB - JUS ONE TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/8a9c8ac001d3ef9e4ce39b1177295e03jus1panjabi.jpg" group-title="PUNJABI",PB - JUS ONE TV
+http://voxtv.dynns.com:8000/indian/indian/180
+#EXTINF:-1 tvg-ID="" tvg-name="PB - JUS PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/8a9c8ac001d3ef9e4ce39b1177295e03jus1panjabi.jpg" group-title="PUNJABI",PB - JUS PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/179
+#EXTINF:-1 tvg-ID="" tvg-name="PB - MH 1" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/e4d8163c7a068b65a64c89bd745ec360MH1news.gif" group-title="PUNJABI",PB - MH 1
+http://voxtv.dynns.com:8000/indian/indian/177
+#EXTINF:-1 tvg-ID="" tvg-name="PB - MH1 NEWS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/e4d8163c7a068b65a64c89bd745ec360MH1news.gif" group-title="PUNJABI",PB - MH1 NEWS
+http://voxtv.dynns.com:8000/indian/indian/1117
+#EXTINF:-1 tvg-ID="" tvg-name="PB - MH1 SHARDDHA" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483343961.jpg" group-title="PUNJABI",PB - MH1 SHARDDHA
+http://voxtv.dynns.com:8000/indian/indian/1118
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PBN MUSIC" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483344056.jpg" group-title="PUNJABI",PB - PBN MUSIC
+http://voxtv.dynns.com:8000/indian/indian/1119
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PTC CHAK DE" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/9d752cb08ef466fc480fba981cfa44a1ptcchakde.jpg" group-title="PUNJABI",PB - PTC CHAK DE
+http://voxtv.dynns.com:8000/indian/indian/173
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PTC NEWS" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/acab0116c354964a558e65bdd07ff047ptcnews.png" group-title="PUNJABI",PB - PTC NEWS
+http://voxtv.dynns.com:8000/indian/indian/174
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PTC PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/47a658229eb2368a99f1d032c8848542ptcpunjabi.jpg" group-title="PUNJABI",PB - PTC PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/172
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PUNJAB TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/8aec51422b30d61bce078b27f0babeb1punjab.jpg" group-title="PUNJABI",PB - PUNJAB TV
+http://voxtv.dynns.com:8000/indian/indian/170
+#EXTINF:-1 tvg-ID="" tvg-name="PB - SANGAT TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/f1daf122cde863010844459363cd31dbsangattv.jpg" group-title="PUNJABI",PB - SANGAT TV
+http://voxtv.dynns.com:8000/indian/indian/182
+#EXTINF:-1 tvg-ID="" tvg-name="PB - SANJH TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483343859.jpg" group-title="PUNJABI",PB - SANJH TV
+http://voxtv.dynns.com:8000/indian/indian/1120
+#EXTINF:-1 tvg-ID="" tvg-name="PB - SIKH CHANNEL" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/61c66a2f4e6e10dc9c16ddf9d19745d6sikh.jpg" group-title="PUNJABI",PB - SIKH CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/181
+#EXTINF:-1 tvg-ID="" tvg-name="PB - PB ZEE PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/4f0bf7b7b1aca9ad15317a0b4efdca14zeepunjabi.gif" group-title="PUNJABI",PB - PB ZEE PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/118
+#EXTINF:-1 tvg-ID="" tvg-name="PB - ZEE PUNJABI HARYANA TV" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/admin_1483343769.jpg" group-title="PUNJABI",PB - ZEE PUNJABI HARYANA TV
+http://voxtv.dynns.com:8000/indian/indian/1121
+#EXTINF:-1 tvg-ID="" tvg-name="PB - 9X TASHAN" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/3332880692313818482a5a0286608ab69xtahsan.jpg" group-title="PUNJABI",PB - 9X TASHAN
+http://voxtv.dynns.com:8000/indian/indian/175
+#EXTINF:-1 tvg-ID="" tvg-name="PB - AONE PUNJABI" tvg-logo="https://www.diltv.org/apps/prog_data/thumbs/e11943a6031a0e6114ae69c257617980aone.jpg" group-title="PUNJABI",PB - AONE PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/176
